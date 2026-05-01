@@ -86,7 +86,7 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
     alt="GitHub Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGmartins2307&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
 <br/>
