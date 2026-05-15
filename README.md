@@ -83,8 +83,5 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
 
 ### 📊 Estatísticas
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurGmartins2307&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurGmartins2307&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurGmartins2307&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurGmartins2307&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArthurGmartins2307&theme=merko&utcOffset=8)
