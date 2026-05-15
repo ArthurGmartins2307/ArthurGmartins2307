@@ -77,3 +77,14 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurGmartins2307&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurGmartins2307&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurGmartins2307&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurGmartins2307&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArthurGmartins2307&theme=merko&utcOffset=8)
