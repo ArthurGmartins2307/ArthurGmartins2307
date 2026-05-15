@@ -83,5 +83,5 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
 
 ### 📊 Estatísticas
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurGmartins2307&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurGmartins2307&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurGmartins2307&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurGmartins2307&theme=gruvbox)
