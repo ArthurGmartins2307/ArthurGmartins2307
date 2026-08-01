@@ -1,6 +1,6 @@
 # 👨‍💻 Arthur Galvão Martins
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
 Sou estudante do SESI Vila Leopoldina e atualmente curso Tecnologia da Informação no SENAI Morvan Figueiredo, com foco em Desenvolvimento de Sistemas.
 
