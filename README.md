@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Sou estudante do <strong><a href="https://leopoldina.sesisp.org.br" target="_blank">SESI Vila Leopoldina</a></strong> e atualmente curso Tecnologia da Informação no SENAI Morvan Figueiredo, com foco em Desenvolvimento de Sistemas.
+Sou estudante do <strong><a href="https://leopoldina.sesisp.org.br" target="_blank">SESI Vila Leopoldina</a></strong> e atualmente curso Tecnologia da Informação no <strong><a href="https://www.sp.senai.br/unidade/mooca/" target="_blank">SENAI Morvan Figueiredo</a></strong>, com foco em Desenvolvimento de Sistemas.
 
 Tenho me dedicado a aprender e aplicar na prática diferentes linguagens de programação e tecnologias modernas, buscando sempre evoluir minhas habilidades e entender melhor como criar soluções eficientes e bem estruturadas.
 
