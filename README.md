@@ -118,7 +118,6 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurGmartins2307&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurGmartins2307&theme=gruvbox)
 
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -126,4 +125,3 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
