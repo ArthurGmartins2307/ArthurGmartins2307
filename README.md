@@ -105,7 +105,7 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
 <br clear="both">
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArthurGmartins2307/ArthurGmartins2307/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
