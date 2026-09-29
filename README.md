@@ -54,11 +54,11 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, onde coloco em prát
 />
 <img
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="MySQL" 
+    title="MySQL"
     width="33px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
